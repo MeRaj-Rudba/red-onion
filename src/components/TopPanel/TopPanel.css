@@ -1,0 +1,17 @@
+.banner{
+    margin: 0px;
+    background-image: url('../../images/bannerbackground.png');
+    height: 700px;
+    width: 100%;
+    
+    background-position: center;
+
+}
+.banner input{
+    border: none;
+    width: 450px !important;
+    border-radius: 20px;
+    font-size: 18px;
+
+}
+

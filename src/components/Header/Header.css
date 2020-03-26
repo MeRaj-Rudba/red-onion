@@ -1,0 +1,38 @@
+.logo-head{
+    height: 40px;
+}
+.button-mine{
+    background-color: #F91944 ;
+    border: none ;
+    box-shadow: none !important;
+    border-radius: 20px;
+    color: white !important;
+    padding: 10px 20px !important;
+    margin:10px ;
+
+}
+.button-mine:hover{
+    background-color: #191919 ;
+    color: #F91944 !important;
+
+}
+
+.button-mine-2{
+    background-color: white !important;
+    border: none ;
+    box-shadow: none !important;
+    border-radius: 20px;
+    color: #191919 !important;
+    padding: 10px 20px !important;
+    margin:10px ;
+
+}
+.button-mine-2:hover{
+    background-color: white !important;
+    color: #F91944 !important;
+
+}
+.navbar{
+    background-color: white !important;
+    padding-left: 25px;
+}

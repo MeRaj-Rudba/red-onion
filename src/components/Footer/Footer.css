@@ -1,0 +1,22 @@
+.footer-panel{
+    background-color: #191919;
+    
+    height: 400px;
+}
+
+.footer-panel img{
+    height: 50px;
+    margin: 20px;
+}
+.card-custom{
+    padding: 10px;
+    margin-top: 40px;
+    border: none;
+    background-color: #191919;
+    color: white;
+}
+#copyright{
+    padding-left: 20px;
+    color:#5B5B5B;
+    font-weight: 700;
+}

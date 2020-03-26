@@ -9,6 +9,8 @@ import {
 } from "react-router-dom";
 import Header from './components/Header/Header';
 import TopPanel from './components/TopPanel/TopPanel';
+import Footer from './components/Footer/Footer';
+import Food from './components/Food/Food';
 
 
 function App() {
@@ -16,6 +18,8 @@ function App() {
     <div >
       <Header></Header>
       <TopPanel></TopPanel>
+      <Food></Food>
+      <Footer></Footer>
       
     </div>
   );
